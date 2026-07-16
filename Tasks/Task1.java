@@ -1,7 +1,6 @@
 package Tasks;
 
 public class Task1 {
-
 }
 /** 
  * The HelloWorldApp class implements an application that
